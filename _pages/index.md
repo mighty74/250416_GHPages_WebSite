@@ -4,7 +4,7 @@ author: default
 permalink: /
 ---
 
-<img src="/assets/images/mytop.jpg" width="50%">
+<img src="/assets/images/mytop.jpg" width="200px"><img src="/assets/images/port.png" width="200px">
 
 
 # 自己紹介
