@@ -22,6 +22,20 @@ permalink: /
 #### [ポートフォリオ](mightyitimi.com)
 
 
+# My Skills
+| 名前  | 説明  |
+|-----|-----|
+| python  | 開発、研究で使用  |
+| java  | 学部でのプログラミング学習に使用  |
+| javascript  | 動的ページを作成する際に使用  |
+| php  | インターンで使用  |
+| github  | 開発、研究で使用  |
+| vscode  | 開発、研究で使用  |
+| docker  | 開発、研究で使用  |
+| cnn  | 研究で使用  |
+| etc  | etc  |
+
+
 
 
 
