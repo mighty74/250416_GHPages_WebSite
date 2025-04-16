@@ -4,6 +4,8 @@ author: default
 permalink: /
 ---
 
+<img src="/assets/images/mytop.jpg" width="50%">
+
 
 # 自己紹介
 ### 名前： 
@@ -34,6 +36,7 @@ permalink: /
 | docker  | 開発、研究で使用  |
 | cnn  | 研究で使用  |
 | etc  | etc  |
+
 
 
 
@@ -76,4 +79,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/assets/images/logo-150.png)
